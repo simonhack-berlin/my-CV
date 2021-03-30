@@ -10,5 +10,9 @@ Passion for programming and discovering new technologies!
 
 I support web development teams to strive for creative excellence to serve a business purpose and have an impact on society.
 
+### Languages and tools
+
+![JavaScript Logo](/images/javascript.svg)
+
 
 
