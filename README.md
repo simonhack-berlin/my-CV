@@ -1,6 +1,5 @@
-# Hi, I’m **Simone** 👋
-
-## full-stack web developer based in Berlin 👨‍💻
+<h1>Hi, I am <strong>Simone</strong> 👋</h1>
+        <h2>full-stack web developer based in Berlin 👨‍💻</h2> 
 
 ### About me 
 
@@ -12,7 +11,6 @@ I support web development teams to strive for creative excellence to serve a bus
 
 ### Languages and tools
 
-![JavaScript Logo](/images/javascript.svg)
 
 
 
