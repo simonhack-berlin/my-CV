@@ -1,4 +1,4 @@
-<p>Hi, I am <strong>Simone</strong> 👋</p>
+<h1>Hi, I am <strong>Simone</strong> 👋</h1>
         <h2>full-stack web developer based in Berlin 👨‍💻</h2> 
 
 ### About me 
@@ -11,6 +11,9 @@ I support web development teams to strive for creative excellence to serve a bus
 
 ### Languages and tools
 
+<img align=“left” style=“margin-bottom: 5px” alt=“JavaScript” height=40px src=“./images/javascript.svg”>
+<img align=“left” style=“margin-bottom: 5px” alt=“HTML” height=40px src=“./images/html5.svg”>
+<img align=“left” style=“margin-bottom: 5px” alt=“CSS” height=40px src=“./images/css3.svg”>
 
 
 
