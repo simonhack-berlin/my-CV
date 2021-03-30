@@ -1,3 +1,5 @@
+<script src="https://kit.fontawesome.com/1bd0d02f71.js" crossorigin="anonymous"></script>
+
 <h1>Hi, I am <strong>Simone</strong> 👋</h1>
         <h2>full-stack web developer based in Berlin 👨‍💻</h2> 
 
