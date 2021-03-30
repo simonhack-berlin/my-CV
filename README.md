@@ -1,10 +1,17 @@
-## Welcome to GitHub Pages
+# Hi, I’m **Simone** 👋
 
-You can use the [editor on GitHub](https://github.com/simonhack-berlin/my-CV/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## full-stack web developer based in Berlin 👨‍💻
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### About me 
 
-### Markdown
+![]()
+
+I’m a highly motivated and dedicated person to any professional team. My open-mindedness and positive attitude are traits that always foster my curiosity and willingness to learn and improve myself. When working on a project, I am self-driven and very focused. Agile organisations best describe an environment in which I deliver the best results.
+
+Passion for programming and discovering new technologies!
+
+I support web development teams to strive for creative excellence to serve a business purpose and have an impact on society.
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
