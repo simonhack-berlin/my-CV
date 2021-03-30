@@ -11,9 +11,9 @@ I support web development teams to strive for creative excellence to serve a bus
 
 ### Languages and tools
 
-<img align=“left” alt=“JavaScript” height=40px src=“./images/javascript.svg”>
-<img align=“left” alt=“HTML” height=40px src=“./images/html5.svg”>
-<img align=“left” alt=“CSS” height=40px src=“./images/css3.svg”>
+<img align=“left” alt=“JavaScript” height=40px src=“/images/javascript.svg”>
+<img align=“left” alt=“HTML” height=40px src=“/images/html5.svg”>
+<img align=“left” alt=“CSS” height=40px src=“/images/css3.svg”>
 
 
 
