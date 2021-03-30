@@ -1,4 +1,15 @@
-<script src="https://kit.fontawesome.com/1bd0d02f71.js" crossorigin="anonymous"></script>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simone Capuano WD</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css">
+    <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://kit.fontawesome.com/1bd0d02f71.js" crossorigin="anonymous"></script>
+</head>
 
 <h1>Hi, I am <strong>Simone</strong> 👋</h1>
         <h2>full-stack web developer based in Berlin 👨‍💻</h2> 
@@ -17,7 +28,7 @@ I support web development teams to strive for creative excellence to serve a bus
 
 ### Connect with me 
 
-<a href="https://www.linkedin.com/in/simone-capuano-webdeveloper/" target="_blank"><img src="images/linkedin.jpeg" height=40px></a>
+<a href="https://www.linkedin.com/in/simone-capuano-webdeveloper/" target="_blank"><i class="fab fa-linkedin"></i></a>
 
 
 
