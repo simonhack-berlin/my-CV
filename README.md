@@ -1,4 +1,4 @@
-<h1>Hi, I am <strong>Simone</strong> 👋</h1>
+<p>Hi, I am <strong>Simone</strong> 👋</p>
         <h2>full-stack web developer based in Berlin 👨‍💻</h2> 
 
 ### About me 
