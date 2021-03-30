@@ -13,7 +13,8 @@ I support web development teams to strive for creative excellence to serve a bus
 
 <img src="images/html5.svg" height=35px> <img src="images/css3.svg" height=35px> <img src="images/javascript.svg" height=35px> <img src="images/mongodb.svg" height=35px> <img src="images/node-js.svg" height=35px> <img src="images/react.svg" height=35px>
 
-### Contact me 
+
+### Connect with me 
 
 <a href="https://www.linkedin.com/in/simone-capuano-webdeveloper/" target="_blank"><img src="images/linkedin.svg" height=35px></a>
 
