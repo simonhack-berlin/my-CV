@@ -12,7 +12,7 @@ I support web development teams to strive for creative excellence to serve a bus
 
 ### Languages and tools
 
-![JavaScript Logo](./images/javascript.svg =100)
+![JavaScript Logo](/images/javascript.svg)
 
 
 
