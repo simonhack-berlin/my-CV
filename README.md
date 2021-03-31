@@ -16,7 +16,7 @@ I support web development teams to strive for creative excellence to serve a bus
 
 ### Connect with me 
 
-<a href="https://www.linkedin.com/in/simone-capuano-webdeveloper/" target="_blank"><img src="images/linkedin.svg" height=35px></a> <a href="https://simonecapuano-webdev.com/" target="_blank"><img src="images/globe.svg" height=35px></a>
+<a href="https://www.linkedin.com/in/simone-capuano-webdeveloper/" target="_blank"><img src="images/linkedin.svg" height=35px style="margin-right:15px"></a> <a href="https://simonecapuano-webdev.com/" target="_blank"><img src="images/globe.svg" height=35px></a>
 
 
 
