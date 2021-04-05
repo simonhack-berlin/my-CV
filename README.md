@@ -17,7 +17,7 @@ Accomplished programming skills and project experience in: React JS, Node.js, Ex
 
 <b>Projects:</b> E-Commerce Fashion Shop (MERN full-stack app) | Bee-travel (full-stack travel planning app) | Bricks Breaker game (HTML, JS, P5.js library)
 
-<br><a href="https://www.codeacademy.com"><b>CodeCademy</b></a> - Self-study Web Developer Front-end<br>
+<a href="https://www.codeacademy.com"><b>CodeCademy</b></a> - Self-study Web Developer Front-end<br>
 Self-studied coding courses including certificates in HTML, CSS, JavaScript and working experience with Git and GitHub.<br>
 
 <b>Projects:</b> Fashion blog (HTML & CSS) | City blog (HTML & CSS) | Festival schedule (HTML & CSS) | Sleep Debt calculator (JavaScript) | Rock, Paper, Scissors (JavaScript) | Codebrainery.io (HTML, CSS, JS) | Amazing Space (HTML, CSS, JS) | Personal Portfolio (HTML, CSS, JS)
