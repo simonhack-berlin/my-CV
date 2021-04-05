@@ -15,7 +15,7 @@ I support web development teams to strive for creative excellence to serve a bus
 Collaborated with a team of 30 fellow students in a remote environment with regular communication via Zoom, Slack, and in group projects. Developed project designs and completed individual assignments.
 Accomplished programming skills and project experience in: React JS, Node.js, Express.js, MongoDB, Mongoose, HTML, CSS, SCSS/SASS, JSX, REST API, Javasrcipt.<br>
 
-<b>Projects:</b> E-Commerce Fashion Shop(MERN Full-Stack App) | Bee-travel(full-stack travel planning app) |  Bricks- Breaker game (HTML, JS, P5.js library)
+<b>Projects:</b> E-Commerce Fashion Shop(MERN Full-Stack App) | Bee-travel(full-stack travel planning app) | Bricks- Breaker game (HTML, JS, P5.js library)
 <br>
 
 <a href="https://www.codeacademy.com"><b>CodeCademy</b></a> - Self-study Web Developer Front-end<br>
