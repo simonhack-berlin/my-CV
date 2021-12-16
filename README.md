@@ -1,5 +1,5 @@
 <h1>Hi, I am <strong>Simone</strong> 👋</h1>
-<b>full-stack web developer based in Berlin 👨‍💻</b> 
+<h2>full-stack web developer based in Berlin 👨‍💻</h2> 
 
 ### About me 
 
