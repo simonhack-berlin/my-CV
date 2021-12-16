@@ -9,6 +9,10 @@ Passion for programming and discovering new technologies!
 
 I support web development teams to strive for creative excellence to serve a business purpose and have an impact on society.
 
+###  Current job position
+
+<a href="https://www.steffenundbach.de"><b>Steffen und Bach GmbH</b></a> - Full-Stack Web Developer.
+
 ### Education
 
 <a href="https://www.ironhack.com"><b>IronHack</b></a> - Full-Stack Web Developer Program (full-time bootcamp)<br>
